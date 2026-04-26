@@ -1,0 +1,11 @@
+ipykernel==7.1.0
+pandas==2.3.3
+scikit-learn==1.7.2
+wordcloud==1.9.6
+seaborn==0.13.2
+transformers==5.0.0
+torch==2.0.1
+torchvision==0.15.2
+torchtext==0.15.2
+sentence-transformers==5.2.2 
+h5py==3.9.0
